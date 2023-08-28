@@ -1,2 +1,2 @@
 # Power_BI_Dashboards Projects
-This is a power BI end to end project on US Patients Data from the year 2015 to 2018.
+This is a power BI end to end project on US Patients Data from the year 2015 to 2018. This dataset provides information regarding the Category of the medical treatment preferred by the patients in US belonging to different States, Cities, the ship mode(Staying room whether deluxe, standard or basic) preferred by the patient for the tratment purpose over the years. This project involves analysis of the Sales, Profit, Discount, shipping cost generated from the Medical treatment preferred by the Patients.
